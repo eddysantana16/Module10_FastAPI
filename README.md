@@ -12,25 +12,25 @@ This project is a FastAPI application that implements a secure user model using 
 
 ## Project Structure
 - module10_is601/
-    ├── app/
-    │ ├── init.py
-    │ ├── main.py
-    │ ├── models.py
-    │ ├── schemas.py
-    │ ├── security.py
-    │ ├── database.py
-    │ └── routers/
-    │ └── users.py
-    ├── tests/
-    │ ├── init.py
-    │ ├── test_security.py
-    │ └── test_users.py
-    ├── requirements.txt
-    ├── Dockerfile
-    ├── pytest.ini
-    └── .github/
-    └── workflows/
-    └── ci.yml
+    - ├── app/
+    - │ ├── init.py
+    - │ ├── main.py
+    - │ ├── models.py
+    - │ ├── schemas.py
+    - │ ├── security.py
+    - │ ├── database.py
+    - │ └── routers/
+    - │ └── users.py
+    - ├── tests/
+    - │ ├── init.py
+    - │ ├── test_security.py
+    - │ └── test_users.py
+    - ├── requirements.txt
+    - ├── Dockerfile
+    - ├── pytest.ini
+    - └── .github/
+    - └── workflows/
+    - └── ci.yml
 
 ## Running the App Locally
 
@@ -55,4 +55,3 @@ This project is a FastAPI application that implements a secure user model using 
 
 ## Author
 - Eddy Santana
-
